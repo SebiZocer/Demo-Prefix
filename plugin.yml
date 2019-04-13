@@ -1,0 +1,8 @@
+name: DemoPrefix
+version: 1.0.0
+author: Sebi_Zocer
+description: A techdemo for SkinLoader
+main: me.SebiZocer.DemoPrefix.Main.Mainclass
+softdepend: [SkinLoader]
+commands:
+  
